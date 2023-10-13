@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**taylorreis/taylorreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer working on identity and access management here at GitHub :octocat:
 
-Here are some ideas to get you started:
+#### Core Values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Accountability
+  - Staying true to word
+  - Reliability out of respect to others
+- Communicating effectively as a human
+  - Having clear intent and purpose
+  - Openness and transparency
+  - Genuine respect to everyone in the conversation
+- Making decisions based on verifiable inputs
+  - Understand that there may not be a complete picture to evaluate; we make the most with what we do know
+  - Be intentional and honest about which pieces of information went into the decision making process
+- Index on learning
+  - Outcomes provide new insight and allow us to reevaluate decisions as necessary
+  - We learn and grow together
