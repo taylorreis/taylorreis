@@ -15,5 +15,6 @@ I'm a software engineer working on identity and access management here at GitHub
   - Understand that there may not be a complete picture to evaluate; we make the most with what we do know
   - Be intentional and honest about which pieces of information went into the decision making process
 - Index on learning
-  - Outcomes provide new insight and allow us to reevaluate decisions as necessary
   - We learn and grow together
+  - Outcomes provide new insight and allow us to reevaluate decisions as necessary
+  - Change is inevitable; learning facilitates adaptation
