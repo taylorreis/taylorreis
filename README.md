@@ -7,7 +7,7 @@ I'm a software engineer working on identity and access management here at GitHub
 - Accountability and Trust
   - Staying true to word
   - Reliability out of respect to others
-  - Putting faith in each other to do the right thing
+  - Having faith in each other to do the right thing
 - Communicating effectively as a human
   - Having clear intent and purpose
   - Openness and transparency
